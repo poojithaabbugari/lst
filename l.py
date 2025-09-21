@@ -53,11 +53,6 @@
 #print(s)
 #output is [201, 202, 203, 204, 4, 5, 6, 7]
 
-"""s = [201,202,203,204]
-h = {"shravya":4,"sindhu":5,"sneha":6,"likitha":7}
-s.extend(h)
-print(s)"""
-
 
 #4.remove list items
 #Remove,cannot empty a list — it only removes one specific element at a time.
@@ -112,3 +107,4 @@ print(s)"""
 #output is apple
 #banana
  #cherry
+
